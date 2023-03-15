@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kadirova Mekhrubon
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Mekhrubon
+last_name: Kadirova
 
 # Status emoji
 status:
