@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Manage
+          description: 80%
+          icon: S-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Programming
+          description: 30%
           icon: chart-line
           icon_pack: fas
         - name: Photography
-          description: 10%
+          description: 50%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -40,27 +40,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Volunteer coordinator
+          company: Russian center of science and culture
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Tajikistan
+          date_start: '2022-09-28'
+          date_end: '2022-07-03'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Organization
+              * Volunteer coordination
+              * Responsibility
+        - title: Student, eadman
+          company: Peoples' Friendship University of Russia
+          company_url: 'https://www.rudn.ru/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Russia
+          date_start: '2023-08-25'
+          date_end: ''
+          description: Computer science.
     design:
       columns: '2'
   - block: accomplishments
@@ -84,14 +83,6 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'

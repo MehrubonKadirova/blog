@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Управление версиями Git
+date: 2023-04-08
 math: true
 image:
   placement: 2
